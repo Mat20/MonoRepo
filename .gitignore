@@ -1,0 +1,4 @@
+node_modules
+dist
+yar-erro.log
+yarn.lock
